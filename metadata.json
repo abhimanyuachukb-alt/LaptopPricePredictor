@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Price Predictor",
+  "description": "Estimate the resale price of a used laptop with an on-device Random Forest model.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
